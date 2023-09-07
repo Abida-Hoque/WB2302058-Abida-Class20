@@ -1,0 +1,95 @@
+/*img{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 3;
+}
+h1{
+    position: relative;
+    z-index: 4;
+}*/
+
+
+/*div{
+    position:absolute;
+    height: 200px;
+    width: 200px;
+}
+.box1{
+    background-color: red;
+    left: 0;
+    top: 0px;
+    z-index: 3;
+}
+.box2{
+    background-color: green;
+    left: 100px;
+    top: 150px;
+    z-index: 2;
+}
+.box3{
+    background-color: blue;
+    left: 150px;
+    top: 250px;
+    z-index: 1;
+}
+
+
+/*.overflow{
+    height: 200px;
+    width: 200px;
+    border: 2px solid red;
+    overflow: auto;
+}*/
+
+
+/*div{
+    height: 150px;
+}
+.box1{
+    float: left;
+    width: 33%;
+    background-color: red;
+    
+}
+.box2{
+    float: left;
+    width: 33%;
+    background-color: green;
+    
+}
+.box3{
+    float: left;
+    width: 33%;
+    background-color: blue;
+    
+}
+.text{
+    width: 100%;
+}*/
+
+
+/*img{
+   height: 150px;
+  width: 150px;
+    border: 2px solid antiquewhite;
+}*/
+
+
+.left{
+    height: 200px;
+    border: 3px sold red;
+    overflow: auto;
+}
+.left img{
+    float: right;
+}
+.div1{
+    float: left;
+    padding: 15px;
+    border: 2px solid red;
+}
+.div2{
+    padding: 10px;
+    border: 3px solid green;
+}
